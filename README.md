@@ -1,3 +1,3 @@
 # CV
 
-<embed src="CV_2020.pdf" type="application/pdf">
+<embed src="/CV_2020.pdf" type="application/pdf">
